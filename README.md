@@ -8,7 +8,8 @@ If you want to execute it automatically on startup,
 Step-1: Create a shortcut of the file.
 Step-2: Press window+R, and the type "shell:startup" and press OK
 
-![image](https://user-images.githubusercontent.com/63445410/127508681-e98f7c9a-14ec-4d59-a091-a8d4407e3bd8.png)
+![image](https://user-images.githubusercontent.com/63445410/127509111-e75166c5-5d53-4301-8dae-581647a4e9ce.png)
+
 Step-3: This directory opens: "C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"
 Step-4: Copy that shortcut in this location.
 
